@@ -1,7 +1,7 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "Timeline Calendar",
+    "name": "Timeline Calendar With Dupe Fix",
     "id": "fdcba3a4-d4a6-4ac7-a370-98c7d5d8e7db",
     "version": "0.6.4.0",
     "includeClientSideAssets": true,
@@ -54,6 +54,6 @@
     ]
   },
   "paths": {
-    "zippedPackage": "solution/timeline-calendar.sppkg"
+    "zippedPackage": "solution/timeline-calendar-with-dupe-fix.sppkg"
   }
 }
